@@ -16,7 +16,7 @@ Website utilizes a fixed header where the user can jump from page to page. Users
 
 ## Optimizations
 
-If/When I improve this project, I want to make it into a Full-Stack Application where it functions as a real restaurant website. Where the user can search for various restaurant locations, search for menu items, order those items or add them to their cart, and checkout. It would be a fun to incorperate backend functionality.
+If/When I improve this project, I want to make it into a Full-Stack Application where it functions as a real restaurant website. Where the user can search for various restaurant locations, search for menu items, order those items or add them to their cart, and checkout. It would be a fun to add backend functionality into this project.
 
 ## Lessons Learned
 
